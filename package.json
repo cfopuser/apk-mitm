@@ -18,8 +18,7 @@
     "test": "tsc",
     "watch": "tsc --watch",
     "format": "prettier --write .",
-    "lint": "prettier --check .",
-    "prepare": "npm run build"
+    "lint": "prettier --check ."
   },
   "bin": "bin/apk-mitm",
   "files": [
